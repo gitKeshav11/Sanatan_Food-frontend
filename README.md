@@ -5,7 +5,6 @@
 
 #  Sanatan Food – Frontend (React)
 
-
 <p align="center">
   <img src="assets/sanatan-food-banner.png" alt="Sanatan Food Banner" width="100%" />
 </p>
